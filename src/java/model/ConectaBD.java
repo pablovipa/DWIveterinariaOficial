@@ -11,7 +11,7 @@ import java.sql.DriverManager;
  */
 public class ConectaBD {
     public static Connection con=null;
-    private static String bd = "PsicoFacil";
+    private static String bd = "DWIveterinariaOficial";
     public static String usuario = "root";
     public static String passw = "DIVADolbap96-97";
     public static String url = "jdbc:mysql://localhost/"+bd;

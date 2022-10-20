@@ -41,7 +41,7 @@ public class Login extends HttpServlet {
             usuario=gestorBD.consultar(cuenta, clave);//llama al metodo consultar de la clase gestorBD, el cual necesita dos atributos
             if(usuario!=null){
                 request.setAttribute("nombre",usuario.getNombre());//"nombre" -> (id) de la variable en el formulario
-                request.getRequestDispatcher("/Prueba.jsp").forward(request, response);
+                request.getRequestDispatcher("/PerfilUsuario.jsp").forward(request, response);
             }else{
                 request.getRequestDispatcher("/Error.jsp").forward(request, response);
             }
