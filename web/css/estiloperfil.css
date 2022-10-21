@@ -15,7 +15,7 @@ body{
 }
 #profile{
     background: #005C53;
-    background-image: url(../assets/header-shadow.png);
+    background-image: url(..//assets/photo-inner.png) no-repeat;
     background-position: center bottom;
     background-repeat: repeat-x;
     overflow: hidden;
@@ -29,7 +29,7 @@ body{
 }
 .about .photo-inner{
     float: left;
-    background: url(..//assets/a2.jpg) no-repeat;
+    background: url(../assets/header-shadow.png) no-repeat;
     width: 214px;
     height: 214px;
     padding: 12px 0 0 19px;
@@ -62,7 +62,7 @@ body{
     width: 310px;
     min-height: 230px;
     margin-left: 10px;
-    background: url(..//assets/photo-inner.png) no-repeat left top;
+    background: url(../assets/header-shadow.png) no-repeat left top;
     padding: 20px 0 19px 20px;
 }
 .personal-info li{

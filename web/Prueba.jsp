@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Prueba
-    Created on : 16 oct. 2022, 20:38:28
-    Author     : andy2
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

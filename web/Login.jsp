@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Login
-    Created on : 14 oct. 2022, 23:45:35
-    Author     : andy2
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -18,21 +14,19 @@
         <script src="https://kit.fontawesome.com/a81368914c.js"></script>
         <script src="https://getbootstrap.com/docs/5.2/getting-started/introduction/"></script>
         <title>Inicia Sesión</title>
-        <div class="head-logo">
-            <img class="logo" src="img/Logo1.png" alt="">
-        </div>
+
     </head>
     <body>
         <%@ page import="controller.Login" %>
-        <img  class="wave" src="img/fondo.png" alt="">
+        <img  class="wave" src="assets/fondologin.jpg" alt="">
         <div class="container">
             <div class="img">
-                <img src="img/img-login.svg" alt="">
+                <img src="assets/a5.jpg" alt="">
             </div>
             <div class="login-container">
                 <form action="Login" method="post">
-                    <img class="usuario" src="img/img-user.svg" alt="">
-                    <h2>¡Bienvenido!</h2>
+                    <img class="usuario" src="assets/login2.jpg" alt="">
+                    <h2>Ingresa</h2>
                     <div class="input-div one">
                         <div class="i">
                             <i class="fas fa-user-alt"></i>

@@ -27,8 +27,8 @@ and open the template in the editor.
         <section id="container">
             <header>
                 <div  id="logo">
-                    <h2>NOBRE DEL PROFESIONAL</h2>
-                    <h4>PSICOLOGO</h4>
+                    <h2>USUARIO</h2>
+                    <h4>MASCOTA:</h4>
                 </div>
                 <div class="social-icon-container">
                     <span class="socials-text">
@@ -58,10 +58,10 @@ and open the template in the editor.
                             </ul>
 
                         </div>
-                        <h1>David</h1>
-                        <h3>psicologo dj</h3>
+                        <h1>USUARIO</h1>
+                        <h3>MASCOTA:</h3>
                         <br><!-- comment -->
-                        <p>jfñldjfñkadsjfñldsajfldskfreoiufgerhgfkjdhsjhfdslkjfhdskjhflkjdshgfkdsjhfkjdshfldkñfadñlsalñ</p>
+                        <p></p>
                     </div>
                     <ul class="personal-info">
                         <li><label>nombre</label><span>Vilchez</span></li>
@@ -77,17 +77,17 @@ and open the template in the editor.
                 <nav class="menu">
                     <ul class="tabs">
                         <li class="tmenu" ><a href="#profile" class="tab-profile active"> 
-                                <i>  <i class="fa fa-user"></i> </i>PROFILE
+                                <i>  <i class="fa fa-user"></i> </i>PERFIL
                             </a>
                         </li>
                         <li class="tmenu" >
                             <a href="#resume" > 
-                                <i>  <i class="fa fa-wpexplorer"></i> </i>RESUME
+                                <i>  <i class="fa fa-wpexplorer"></i> </i>INFO DE MASCOTA
                             </a><!-- comment -->
                         </li>
                         <li class="tmenu" >
                             <a href="#portfolio"> 
-                                <i><i class="fa fa-eercast"></i> </i>PORTFOLIO
+                                <i><i class="fa fa-eercast"></i> </i>
                             </a><!-- comment -->
                         </li>
                         <li class="tmenu">
@@ -116,45 +116,29 @@ and open the template in the editor.
                                         <div class="row no-margin">
                                             <div class="col-md-6 no-padding bg-color-left">
                                                 <div class="left-name bg-color-1">
-                                                    <h2>Tim<span class="text-color">Wilson</span></h2>
-                                                    <h5>creative designer</h5>
+                                                    <h2>USUARIO<span class="text-color">APELLIDO</span></h2>
+                                                    <h5>MASCOTAS:</h5>
                                                     <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed</p>
                                                 </div>
                                                 <div class="left-address">
                                                     <ul>
                                                         <li><span class="text-color">Phone no</span>97836277882</li>
-                                                        <li><span class="text-color">address</span>Dermis India J-219, Saket New Delhi -110017.</li>
-                                                        <li><span class="text-color">EMAIL US</span>info@dermisindia.com</li>
+                                                        <li><span class="text-color">address</span>lIMA.</li>
+                                                        <li><span class="text-color">EMAIL US</span>info@USUARIO.com</li>
                                                     </ul>
                                                 </div>
                                                 <div class="ex-heading loader">
-                                                    <h2>EXEPIRIENCE</h2>
+                                                    <h2>ACTIVO</h2>
                                                 </div>
-                                                <div class="ex-box">
-                                                    <h2>2010-2012</h2>
-                                                    <h4>PROJECT MANAGER</h4>
-                                                    <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                </div>
-                                                <div class="ex-box">
-                                                    <h2>2010-2012</h2>
-                                                    <h4>PROJECT MANAGER</h4>
-                                                    <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                </div>
-                                                <div class="ex-box">
-                                                    <h2>2010-2012</h2>
-                                                    <h4>PROJECT MANAGER</h4>
-                                                    <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                </div>
-                                                <div class="ex-box">
-                                                    <h2>2010-2012</h2>
-                                                    <h4>PROJECT MANAGER</h4>
-                                                    <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                </div>
+                                               
+                                                
+                                                
+                                                
                                             </div>
                                             <div class="col-md-6 no-padding bg-color-right">
                                                 <div class="top-skills">
                                                     <div class="skill-name">
-                                                        <div class="sn">PS</div>
+                                                        <div class="sn">ASIDUO</div>
                                                         <ul>
                                                             <li></li>
                                                             <li></li>
@@ -194,167 +178,8 @@ and open the template in the editor.
                                                         </ul>
                                                     </div>
                                                 </div>
-                                                <div class="right-skills">
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-12 heading-skills no-padding">
-                                                            <h3>MY skills</h3>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Photoshop</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Ms office</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Illustrator</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>html</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin mt-25">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Photoshop</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Ms office</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>Illustrator</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-5 no-padding">
-                                                            <h4>html</h4>
-                                                        </div>
-                                                        <div class="col-md-7 no-padding">
-                                                            <div class="progress">
-                                                                <div class="progress-bar bg-warning progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row no-margin mt-25">
-                                                        <div class="col-md-12 heading-skills no-padding">
-                                                            <h3>INTERSESTS</h3>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-plane" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>TRAVEL</h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-headphones" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>MUSIC</h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-file-video-o" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>video</h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-bicycle" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>CYCLING</h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>COOCKING</h5>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-4 intetst-box">
-                                                            <div class="intetst-icons">
-                                                                <i class="fa fa-pied-piper-alt" aria-hidden="true"></i>
-                                                                <br><br>
-                                                                <h5>SPORTS</h5>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="eduction-right">
-                                                    <div class="row no-margin">
-                                                        <div class="col-md-12 heading-skills no-padding">
-                                                            <h3>EDUCATION</h3>
-                                                            <div class="ex-box">
-                                                                <h2>2010-2012</h2>
-                                                                <h4>PROJECT MANAGER</h4>
-                                                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-12 heading-skills no-padding">
-                                                            <div class="ex-box">
-                                                                <h2>2010-2012</h2>
-                                                                <h4>PROJECT MANAGER</h4>
-                                                                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                               
+                                                
                                                 <div class="address-qr-right">
                                                     <div class="row no-margin">
                                                         <div class="col-md-5 no-padding">
@@ -375,7 +200,7 @@ and open the template in the editor.
                                                                     </li>
                                                                     <li>
                                                                         <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                                                        <p>Dermis India J-219, Saket New Delhi -110017.</p>
+                                                                        <p>DerLIMA.</p>
                                                                     </li>
                                                                 </ul>
                                                             </div>
